@@ -20,6 +20,7 @@ DAX queries in Power BI to generate complex calculations for KPIs and alert feat
 ### What We Did:
 I developed and integrated a dynamic Power BI dashboard that provided visual insights into key performance metrics, including revenue trends, profit margins, and sales quantities.
 Automated data refresh enabled real-time analysis, while the alert system flagged any regions or customers falling below a set profitability threshold.
+
 ![pic](https://github.com/abdusami-mohammed/Retail-Sales-Analysis/blob/720976355ae9a16cc908e116a3982d91af44a6cf/Images/Sales%20Analytics%20dashboard%20PF%20PROJ_page-2.jpg)
 ### Problem:
 Atliq relied on static reports and manual processes for sales analysis, which took up to five days to prepare. This method provided limited visibility into underperforming markets and customers, hindering timely decision-making and operational efficiency.
@@ -36,7 +37,8 @@ To address these challenges, I developed a centralized SQL database and an inter
 
 ### Impact:
 The integrated solution auto-refreshes with new data, significantly enhancing visibility into the sales landscape. It empowers Atlix to identify underperforming markets and customers swiftly, leading to more informed, data-driven decision-making and improved operational efficiency.
-![pic]()
+
+![pic](https://github.com/abdusami-mohammed/Retail-Sales-Analysis/blob/c4a79fde41e1b6a866f773f7ec98a5edd03e1766/Images/Sales%20Analytics%20dashboard%20PF%20PROJ_page-1.jpg)
 
 # THANK YOU.
 
