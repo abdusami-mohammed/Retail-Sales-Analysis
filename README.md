@@ -16,6 +16,6 @@ To address these challenges, I developed a centralized SQL database and an inter
 - **User-Friendly Interface:** Designed for ease of use, the dashboard allows non-technical users to explore data intuitively, ensuring accessibility for all team members.
 
 ### Impact:
-The integrated solution auto-refreshes with new data, significantly enhancing visibility into the sales landscape. It empowers Atlix to identify underperforming markets and customers swiftly, leading to more informed, data-driven decision-making and improved operational efficienc
+The integrated solution auto-refreshes with new data, significantly enhancing visibility into the sales landscape. It empowers Atlix to identify underperforming markets and customers swiftly, leading to more informed, data-driven decision-making and improved operational efficiency.
 ![pic](https://github.com/abdusami-mohammed/Retail-Sales-Analysis/blob/720976355ae9a16cc908e116a3982d91af44a6cf/Images/Sales%20Analytics%20dashboard%20PF%20PROJ_page-2.jpg)
 
