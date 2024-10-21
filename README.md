@@ -1,5 +1,5 @@
 # Retail-Sales-Analysis
-![pic](https://github.com/abdusami-mohammed/Retail-Sales-Analysis/blob/720976355ae9a16cc908e116a3982d91af44a6cf/Images/Sales%20Analytics%20dashboard%20PF%20PROJ_page-3.jpg)
+![pic](https://github.com/abdusami-mohammed/Retail-Sales-Analysis/blob/30afdd944cc769d36fe3b127867b555fdfaf1e65/Images/Sales%20Analytics%20dashboard%20Atliq_page-0003.jpg)
 
 ## Project Overview:
 This project aims to analyze sales data from Atliq to help the company make better, data-driven decisions. The focus is on transforming raw sales data into actionable insights through a centralized SQL database and an interactive Power BI dashboard.
@@ -21,7 +21,7 @@ DAX queries in Power BI to generate complex calculations for KPIs and alert feat
 I developed and integrated a dynamic Power BI dashboard that provided visual insights into key performance metrics, including revenue trends, profit margins, and sales quantities.
 Automated data refresh enabled real-time analysis, while the alert system flagged any regions or customers falling below a set profitability threshold.
 
-![pic](https://github.com/abdusami-mohammed/Retail-Sales-Analysis/blob/720976355ae9a16cc908e116a3982d91af44a6cf/Images/Sales%20Analytics%20dashboard%20PF%20PROJ_page-2.jpg)
+![pic](https://github.com/abdusami-mohammed/Retail-Sales-Analysis/blob/30afdd944cc769d36fe3b127867b555fdfaf1e65/Images/Sales%20Analytics%20dashboard%20Atliq_page-0002.jpg)
 ### Problem:
 Atliq relied on static reports and manual processes for sales analysis, which took up to five days to prepare. This method provided limited visibility into underperforming markets and customers, hindering timely decision-making and operational efficiency.
 
@@ -38,7 +38,7 @@ To address these challenges, I developed a centralized SQL database and an inter
 ### Impact:
 The integrated solution auto-refreshes with new data, significantly enhancing visibility into the sales landscape. It empowers Atlix to identify underperforming markets and customers swiftly, leading to more informed, data-driven decision-making and improved operational efficiency.
 
-![pic](https://github.com/abdusami-mohammed/Retail-Sales-Analysis/blob/c4a79fde41e1b6a866f773f7ec98a5edd03e1766/Images/Sales%20Analytics%20dashboard%20PF%20PROJ_page-1.jpg)
+![pic](https://github.com/abdusami-mohammed/Retail-Sales-Analysis/blob/30afdd944cc769d36fe3b127867b555fdfaf1e65/Images/Sales%20Analytics%20dashboard%20Atliq_page-0001.jpg)
 
 # THANK YOU.
 
